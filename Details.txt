@@ -1,0 +1,5 @@
+Hi Viewers 
+Descriptions: This is a simple data webscraping used Python, Selenium, and Olama to fetch, prompt, and give the data.
+Outcomes: As checked, the project is successful, and I was able to scrape and get the data in the table. 
+Issues: The performance is very poor due to my using AMD GPU. If I used Nividia cards, it would be faster due to their CUDA cores. 
+Marks: 6/10 
